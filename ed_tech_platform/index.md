@@ -1,7 +1,43 @@
-# 概要
-学校のICT化をサポートするSaas型プラットフォーム
+# 学校のICT化をサポートするSaas型プラットフォーム
 
-## 利用状況
-2019年5月時点で
-2500校の学校(全国の高校の2校に1校)が導入
-ユーザー数116万人
+## サービスについて
+* 2019年5月時点で2500校の学校(全国の高校の2校に1校)が導入
+* ユーザー数116万人
+
+## 技術スタック
+アプリケーションレイヤーは機能毎に分かれ、データベースは共通のものを参照している、"分断されたモノリス"構成で1つのサービスを構築しています。
+その為各ソフトウェアのバージョンは使用していた中での最新バージョンのみ記述します。
+
+
+### サーバサイド
+* Ruby 2.7
+  * Rails 6.1
+  * grape
+  * Rspec
+  
+* PHP 7.3
+  * FuelPHP
+
+
+
+### フロントエンド
+
+* Backbone.js
+* marionette.js
+* CoffeeScript
+
+### データベース
+* MySQL 5.7
+* Elasticsearch 6.3
+* Redis 2.8
+
+### CI/CD
+* CircleCi
+* AWS CodeDeploy
+* dependency bot
+
+### BIツール
+* GoogleAnaliytics
+* Google DetaPoprtal
+* AWS Athena
+* Google BigQuery
