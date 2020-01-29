@@ -1,3 +1,8 @@
+---
+layout: default
+title: トップページ
+---
+
 # 概要
 学校のICT化をサポートするSaas型プラットフォーム
 
