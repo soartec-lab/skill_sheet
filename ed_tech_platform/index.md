@@ -56,6 +56,6 @@
 ### BIツール
 * GoogleAnaliytics
 * Google DetaPoprtal
-* AWS Athena
 * Google BigQuery
+* AWS Athena
 * Datadogコンソール
