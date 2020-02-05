@@ -9,13 +9,15 @@
 その為各ソフトウェアのバージョンは使用していた中での最新バージョンのみ記述します。
 
 ### サーバサイド
+#### 言語
 * Ruby 2.7
-  * Rails 6.1
-  * grape
-  * Rspec
-
 * PHP 7.3
-  * FuelPHP
+
+#### フレームワーク 
+* Rails 6.1
+* grape
+* Rspec
+* FuelPHP
 
 ### フロントエンド
 #### 言語
@@ -37,21 +39,44 @@
 * erb
 * ejs
 
-### データベース
+### インフラ
+#### Paas
+* AWS
+
+#### webサーバ、プロキシ
+
+* Nginx
+
+#### コンテナ
+* Docker
+
+#### データベース
 * MySQL 5.7
 * Elasticsearch 6.3
 * Redis 2.8
 
-### CI/CD
+#### CI/CD
 * CircleCi
 * AWS CodeDeploy
 * dependency bot
 
-### 監視
+#### 監視
 * Datadog
 * Mackerel
 * Newreric
 * Skylight
+* Sentry
+* Bugsnag
+
+#### Iaas
+* Terraform
+* AWS CloudFormation
+* itamae
+
+### その他
+* Github
+
+## 分析、管理ツール
 
 ### BIツール
 * GoogleAnaliytics
@@ -59,3 +84,15 @@
 * Google BigQuery
 * AWS Athena
 * Datadogコンソール
+
+### タスク管理
+チケット管理ツールは乱立していましたが最終的にAsanaに統一されました。
+
+* Asana
+* Jira
+* Backlog
+* torello
+
+### ドキュメント管理
+* Confluence
+* esa 
