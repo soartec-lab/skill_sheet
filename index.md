@@ -41,13 +41,13 @@
 * 現状の不満を吐き出すだけで終わり、どうやって解決するか？の議論ができない環境。
 
 ### SNS
-[GitHub](https://github.com/soartec-lab)
-[Twitter](https://twitter.com/SoartecL)
-[Qiita](https://qiita.com/SoarTec-lab)
+* [GitHub](https://github.com/soartec-lab)
+* [Twitter](https://twitter.com/SoartecL)
+* [Qiita](https://qiita.com/SoarTec-lab)
 
 ### OSS
-[Rails contributor](https://contributors.rubyonrails.org/contributors/soartec-lab/commits)
-[その他](https://qiita.com/SoarTec-lab/items/f979336bd25d7b3a8cd2)
+* [Rails contributor](https://contributors.rubyonrails.org/contributors/soartec-lab/commits)
+* [その他](https://qiita.com/SoarTec-lab/items/f979336bd25d7b3a8cd2)
 
 ## 参画プロジェクト
 [Saas型EdTechプラットフォーム開発](ed_tech_platform/index.md)
