@@ -44,6 +44,7 @@
 * [GitHub](https://github.com/soartec-lab)
 * [Twitter](https://twitter.com/SoartecL)
 * [Qiita](https://qiita.com/SoarTec-lab)
+* [SpeakerDeck](https://speakerdeck.com/soarteclab)
 
 ### OSS
 * [Rails contributor](https://contributors.rubyonrails.org/contributors/soartec-lab/commits)
