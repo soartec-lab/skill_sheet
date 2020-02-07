@@ -52,4 +52,5 @@
 * [その他](https://qiita.com/SoarTec-lab/items/f979336bd25d7b3a8cd2)
 
 ## 参画プロジェクト
-[Saas型EdTechプラットフォーム開発](ed_tech_platform/index.md)
+[タクシー配車サービス](taxi/index.md)
+[EdTechプラットフォーム開発](ed_tech_platform/index.md)
