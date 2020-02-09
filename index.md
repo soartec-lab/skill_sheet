@@ -45,6 +45,7 @@
 * [Twitter](https://twitter.com/SoartecL)
 * [Qiita](https://qiita.com/SoarTec-lab)
 * [SpeakerDeck](https://speakerdeck.com/soarteclab)
+* [note](https://note.com/soartec_lab)
 
 ### OSS
 * [Rails contributor](https://contributors.rubyonrails.org/contributors/soartec-lab/commits)
@@ -52,5 +53,5 @@
 * [その他](https://qiita.com/SoarTec-lab/items/f979336bd25d7b3a8cd2)
 
 ## 参画プロジェクト
-[タクシー配車サービス](taxi/index.md)
-[EdTechプラットフォーム開発](ed_tech_platform/index.md)
+* [タクシー配車サービス](taxi/index.md)
+* [EdTechプラットフォーム開発](ed_tech_platform/index.md)
