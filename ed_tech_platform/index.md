@@ -27,3 +27,4 @@ Railsエンジニア -> webフルスタックエンジニア -> CRE
 
 ### やった事
 * [組織への取り組み](achievements/organization.md)
+* [サービス運用](achievements/operation.md)
