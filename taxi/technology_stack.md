@@ -54,7 +54,7 @@
 * AWS CloudWatch
 * Newreric
 
-### Iaas
+### IaC
 * Terraform
 * AWS CloudFormation
 * chef
