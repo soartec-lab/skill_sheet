@@ -63,7 +63,7 @@
 * Sentry
 * Bugsnag
 
-### Iaas
+### IaC
 * Terraform
 * AWS CloudFormation
 * itamae
