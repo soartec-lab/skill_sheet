@@ -70,7 +70,7 @@
 * [note](https://note.com/soartec_lab)
 
 ### OSS
-* [Rails contributor](https://contributors.rubyonrails.org/contributors/soartec-lab/commits)
+* [Rails contributors](https://contributors.rubyonrails.org/contributors/soartec-lab/commits)
 * [RubyGems](https://rubygems.org/profiles/soartec-lab)
 * [その他](https://qiita.com/SoarTec-lab/items/f979336bd25d7b3a8cd2)
 
