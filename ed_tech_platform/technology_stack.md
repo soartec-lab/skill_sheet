@@ -13,7 +13,7 @@
 
 ## フロントエンド
 ### 言語
-
+* TypeScript
 * JavaScript
 * CoffeeScript
 
