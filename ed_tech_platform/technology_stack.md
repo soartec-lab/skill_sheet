@@ -6,7 +6,7 @@
 * PHP 7.3
 
 ### フレームワーク 
-* Rails 6.1
+* Rails 6.0
 * grape
 * Rspec
 * FuelPHP
