@@ -47,7 +47,7 @@
 * Docker
 
 ### データベース
-* MySQL 5.7
+* Amazon Aurora MySQL 5.7
 * Elasticsearch 6.3
 * Redis 2.8
 
