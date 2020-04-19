@@ -10,6 +10,7 @@
 ### フレームワーク 
 * Rails 5.1
 * Rspec
+* Selenium
 
 ## フロントエンド
 ### 言語
@@ -64,7 +65,6 @@
 
 ## 負荷試験
 * Apatch JMeter
-* Selenium
 
 ## その他
 * gitlab
