@@ -22,6 +22,7 @@ Ruby/Railsバージョンアップ、サービスマネージャーなど組織�
 ### 期間毎
 #### 2018/10 - 2019/04
 チーム: カスタマーサクセスチーム
+<br>
 役割: Railsエンジニア
 
 * [ログ収集基盤の構築](log_collection.md)
@@ -29,25 +30,28 @@ Ruby/Railsバージョンアップ、サービスマネージャーなど組織�
 
 #### 2019/05 - 2019/07
 チーム: プロダクトチーム
+<br>
 役割: Railsエンジニア
 
 * [Ruby/Rails/その他gemバージョンアップ](ruby_gems_upgrade.md)
 
 #### 2019/08 - 2020/06
 チーム: CREチーム
+<br>
 役割: CRE
 
 * [システム監視設計、運用](system_monitoring.md)
 
 #### 2020/07 - 
 チーム: プロダクトチーム
+<br>
 役割: エンジニアリーダー
 
 
 ### カテゴリ毎
 #### [組織への取り組み](achievements/organization_summary.md)
 
-#### サービス運用/DevOps 
+#### サービ ス運用/DevOps 
 * [システム監視設計、運用](system_monitoring.md)
 * [ログ収集基盤の構築](log_collection.md)
 * [Ruby/Rails/その他gemバージョンアップ](ruby_gems_upgrade.md)
