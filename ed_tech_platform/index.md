@@ -16,7 +16,7 @@ Ruby/Railsバージョンアップ、サービスマネージャーなど組織�
 バックエンドは、サブシステム毎にPHPとRubyで開発しており、Railsアプリにはレイヤードアーキテクチャ、CQRSを採用し保守性の高いアーキテクチャへの改善を行なっています。
 フロントエンドはSPA、MPA構成がサブシステムによって異なっています。
 
-技術スタックの詳細は[こちら](technology_stack.md)
+ 技術スタックの詳細は[こちら](technology_stack.md)
 
 ## 期間毎の実績
 #### 2018/10 - 2019/04
@@ -47,10 +47,10 @@ Ruby/Railsバージョンアップ、サービスマネージャーなど組織�
 役割: エンジニアリーダー
 
 
- ## カテゴリ毎の実績
+## カテゴリ毎の実績
 #### [組織への取り組み](achievements/organization_summary.md)
 
-#### サービ ス運用/DevOps 
+#### サービス運用/DevOps 
 * [システム監視設計、運用](system_monitoring.md)
 * [ログ収集基盤の構築](log_collection.md)
 * [Ruby/Rails/その他gemバージョンアップ](ruby_gems_upgrade.md)
