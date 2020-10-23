@@ -79,6 +79,13 @@
 * [RubyGems](https://rubygems.org/profiles/soartec-lab)
 * [その他](https://qiita.com/SoarTec-lab/items/f979336bd25d7b3a8cd2)
 
+### 登壇
+* [ClassiのRuby/Railsバージョンアップ始動物](https://speakerdeck.com/soarteclab/railsbaziyonatupushi-dong-wu-yu)
+
+### 教材執筆
+* [Railsアプリケーションのパフォーマンス改善をしながらN+1問題を解決するスキルを身に付けよう！](https://www.techpit.jp/courses/79)
+  * [執筆のインタビュー](https://note.com/techpit/n/nd8c2aed9448f)
+
 ## 参画プロジェクト
 * [タクシー配車サービス](taxi/index.md)
 * [EdTechプラットフォーム開発](ed_tech_platform/index.md)
