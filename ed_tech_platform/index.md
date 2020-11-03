@@ -64,5 +64,7 @@
 * [Ruby/Rails/その他gemバージョンアップ](achievements/ruby_gems_upgrade.md)
 * [Railsセキュリティバグトリアージ対応](achievements/rails_security_bug_triage.md)
 
-#### [プロダクト開発](achievements/product_summary.md)
-* 
+#### [プロダクト開発]
+* [繁忙期のCX改善施策](achievements/cx_kaizen_projrct.md)
+* [特定機能の運用負荷軽減](achievements/operation_kaizen_project.md)
+* [外部API連携処理のリプレイス](achievements/api_replace.md)

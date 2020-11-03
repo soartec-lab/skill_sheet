@@ -96,7 +96,7 @@ AWSの基本的なサービスは理解しています。
 * [その他](https://qiita.com/SoarTec-lab/items/f979336bd25d7b3a8cd2)
 
 ### 登壇
-* [ClassiのRuby/Railsバージョンアップ始動物](https://speakerdeck.com/soarteclab/railsbaziyonatupushi-dong-wu-yu)
+* [ClassiのRuby/Railsバージョンアップ始動物語](https://speakerdeck.com/soarteclab/railsbaziyonatupushi-dong-wu-yu)
 
 ### 教材執筆
 * [Railsアプリケーションのパフォーマンス改善をしながらN+1問題を解決するスキルを身に付けよう！](https://www.techpit.jp/courses/79)
