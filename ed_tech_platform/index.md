@@ -26,6 +26,7 @@
 
 * [ログ収集基盤の構築](achievements/log_collection.md)
 * [Railsセキュリティバグトリアージ対応](achievements/rails_security_bug_triage.md)
+* [繁忙期のCX改善施策](achievements/cx_kaizen_projrct.md)
 * [エンジニアオンボーディング](achievements/engineer_onbording.md)
 
 #### 2019/05 - 2019/07
