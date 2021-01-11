@@ -93,9 +93,11 @@ AWSの基本的なサービスは理解しています。
 * [note](https://note.com/soartec_lab)
 
 ### OSS
-* [Rails contributors](https://contributors.rubyonrails.org/contributors/soartec-lab/commits)
-* [RubyGems](https://rubygems.org/profiles/soartec-lab)
-* [その他](https://qiita.com/SoarTec-lab/items/f979336bd25d7b3a8cd2)
+railsをはじめ、複数のRubyGemsにコントリビュートしています。
+[コントリビュートしたリポジトリ一覧](contribute_oss_list.md)
+
+また、自身で作成したgemも公開しています。
+[RubyGems](https://rubygems.org/profiles/soartec-lab)
 
 ### 登壇
 * [ClassiのRuby/Railsバージョンアップ始動物語](https://speakerdeck.com/soarteclab/railsbaziyonatupushi-dong-wu-yu)
@@ -107,3 +109,4 @@ AWSの基本的なサービスは理解しています。
 ## 参画プロジェクト
 * [タクシー配車サービス](taxi/index.md)
 * [EdTechプラットフォーム開発](ed_tech_platform/index.md)
+* [Saas管理機能付きIdaas](ed_tech_platform/index.md)
