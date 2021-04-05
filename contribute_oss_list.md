@@ -1,4 +1,4 @@
-## コントリビュートしたリポジトリ一覧
+## コントリビュートしたOSSリポジトリ一覧
 
 * [rails/rails](https://github.com/rails/rails)
   * [Rails contributors](https://contributors.rubyonrails.org/contributors/soartec-lab/commits)
@@ -10,6 +10,7 @@
 * [digidentity/libsaml](https://github.com/digidentity/libsaml)
 * [rubyconfig/config](https://github.com/rubyconfig/config)
 * [ankane/blind_index](https://github.com/ankane/blind_index)
+* [tomykaira/rspec-parameterized](https://github.com/tomykaira/rspec-parameterized)
 
 ## その他
 
