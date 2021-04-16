@@ -11,6 +11,7 @@
 * [rubyconfig/config](https://github.com/rubyconfig/config)
 * [ankane/blind_index](https://github.com/ankane/blind_index)
 * [tomykaira/rspec-parameterized](https://github.com/tomykaira/rspec-parameterized)
+* [ActsAsParanoid/acts_as_paranoid](https://github.com/ActsAsParanoid/acts_as_paranoid)
 
 ## その他
 
