@@ -4,21 +4,15 @@
 * PRテンプレート作成
 * Coverage計測
 * mailerのpreview設定
-
-## 
 * railsアプリケーションの設定値、環境変数の見直し
-  * gemfileの整理
+  * gemfileの整理/不要なgem削除
   * デバッグ環境整備
-  
-
+  * timezone設定
 * ruby/railsバージョンアップ
 * Dockerfile/docer-composeの見直しと整理
   * DB永続化
   * 不要なコンテナ削除
   * 設定ファイル、環境変数
-
-* Mysqlのcollation
-* DBインスタンスのインスタンスタイプ
-* redisのバージョン
-* railsアプリのtimezone確認
-* 不要なgem削除
+* Mysqlのcollation変更
+* DBインスタンスのインスタンスタイプ最適化
+* redisのバージョンアップ
