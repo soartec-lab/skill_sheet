@@ -110,4 +110,4 @@ railsをはじめ、複数のRubyGemsにコントリビュートしています�
 ## 参画プロジェクト
 * [タクシー配車サービス](taxi/index.md)
 * [EdTechプラットフォーム開発](ed_tech_platform/index.md)
-* [Saas管理機能付きIdaas](ed_tech_platform/index.md)
+* [Saas管理機能付きIdaas](saas_management_idp/index.md)
