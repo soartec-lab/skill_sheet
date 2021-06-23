@@ -2,6 +2,7 @@
 ### 言語
 * Ruby 3.0
 * Python 3.7
+* Go 1.16
 
 ### フレームワーク
 * Rails 6.1
@@ -19,9 +20,15 @@
 * jQuery 3.5.1
 * Sass
 
-### ツール
+### デザインシステム
+
+* material-ui
+
+### ツール/テスト
 * webpack
 * jest
+* react-testing-library
+* styled-components
 
 ### その他
 * chrome extensionの開発
