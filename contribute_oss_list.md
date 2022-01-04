@@ -13,6 +13,7 @@
 * [tomykaira/rspec-parameterized](https://github.com/tomykaira/rspec-parameterized)
 * [ActsAsParanoid/acts_as_paranoid](https://github.com/ActsAsParanoid/acts_as_paranoid)
 * [redis-store/redis-actionpack](https://github.com/redis-store/redis-actionpack)
+* [redis-store/redis-activesupport](https://github.com/redis-store/redis-activesupport)
 
 ## その他
 
