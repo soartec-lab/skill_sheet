@@ -86,9 +86,16 @@ railsをはじめ、複数のRubyGemsにコントリビュートしています�
 また、自身で作成したgemも公開しています。
 [RubyGems](https://rubygems.org/profiles/soartec-lab)
 
-railsへのコントリビューターという理由で、Beihang University(北京航空航天大学) のアンケート「様々なCIツールのユーザーレビューの要約を抽出する研究がOSSコントリビューターの技術選定に役立つか(訳)」、university college london のアンケート「OSSプロジェクトのコントリビューターのロイヤリティ調査アンケート(訳)」に参加する事ができました。
+railsへのコントリビューターという理由で以下のアンケートに参加する事ができました。
+
+* Beihang University(北京航空航天大学) のアンケート「様々なCIツールのユーザーレビューの要約を抽出する研究がOSSコントリビューターの技術選定に役立つか(訳)」
 
 > As you have contributed to the project rails which adopts continuous integration tools, your opinion is very valuable for us.
+
+Federal University of Piaui(ピアウイ連邦大学)とBlekinge Institute of Technology (ブレーキンゲ工科大学)のアンケート「OSSプロジェクトのコントリビューターのコード知識とロイヤリティ調査アンケート(訳)」
+
+> To support the onboarding of software developers, code reviews, and code maintenance, we have been investigating, different approaches to measure code knowledge/familiarity.
+> To improve our understanding of code knowledge/familiarity, we need your help. 
 
 ### 登壇
 * [ClassiのRuby/Railsバージョンアップ始動物語](https://speakerdeck.com/soarteclab/railsbaziyonatupushi-dong-wu-yu)
