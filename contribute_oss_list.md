@@ -4,6 +4,7 @@
   * [Rails contributors](https://contributors.rubyonrails.org/contributors/soartec-lab/commits)
 * [yasslab/railsguides.jp](https://github.com/yasslab/railsguides.jp)
 * [elastic/elasticsearch-ruby](https://github.com/elastic/elasticsearch-ruby)
+* [github/docs](https://github.com/github/docs)
 * [cookpad/chanko](https://github.com/cookpad/chanko)
 * [cookpad/styleguide](https://github.com/cookpad/styleguide)
 * [tomiacannondale/era_ja](https://github.com/tomiacannondale/era_ja)
