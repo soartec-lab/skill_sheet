@@ -2,11 +2,12 @@
 
 ## サーバサイド
 ### 言語
-* Ruby 2.7
+* Ruby 3.0
 * PHP 7.3
+* go 1.18
 
 ### フレームワーク 
-* Rails 6.0
+* Rails 6.1
 * grape
 * Rspec
 * FuelPHP
@@ -52,6 +53,7 @@
 * Redis 2.8
 
 ### CI/CD
+* Github Actions
 * CircleCi
 * AWS CodeDeploy
 * dependency bot
