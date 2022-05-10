@@ -2,10 +2,10 @@
 ### 言語
 * Ruby 3.0
 * Python 3.7
-* Go 1.16
+* Go 1.18
 
 ### フレームワーク
-* Rails 6.1
+* Rails 7.0
 * Rspec
 * rspec-parameterized
 * Serverless Flamework
@@ -33,9 +33,24 @@
 ### その他
 * chrome extensionの開発
 
+## モバイル
+### 言語
+* Dart 2.16.2
+
+### SDK
+* Flutter 2.10.4
+
+### ライブラリ
+* flutter_hooks
+* reverpod
+* dio
+* go_router
+* webview_flutter
+
 ## インフラ
 ### Paas
 * AWS
+* GCP
 
 ### コンテナ
 * Docker
@@ -46,6 +61,7 @@
 * Redis 6.0
 
 ### CI/CD
+* Github Actions
 * CircleCi
 * dependabot
 
@@ -61,7 +77,8 @@
 * Github
 * OpenApi 3.0
 * Cypress
+* SendGrid
+* Figma
 
 ### タスク管理
 * clickup
-
