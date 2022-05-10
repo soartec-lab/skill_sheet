@@ -89,3 +89,4 @@
 * [繁忙期のCX改善施策](achievements/cx_kaizen_projrct.md)
 * [特定機能の運用負荷軽減](achievements/operation_kaizen_project.md)
 * [外部API連携処理のリプレイス](achievements/api_replace.md)
+* [BIプロダクト新規開発](achievements/launch_bi_product.md)
