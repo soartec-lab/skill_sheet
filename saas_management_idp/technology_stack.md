@@ -6,9 +6,12 @@
 
 ### フレームワーク
 * Rails 7.0
+* Serverless Flamework
+
+### テスティングフレームワーク/ツール
 * Rspec
 * rspec-parameterized
-* Serverless Flamework
+* committee
 
 ## フロントエンド
 ### 言語
@@ -19,16 +22,13 @@
 * react 17.0
 * jQuery 3.5.1
 * Sass
-
-### デザインシステム
-
 * material-ui
+* styled-components
 
 ### ツール/テスト
 * webpack
 * jest
 * react-testing-library
-* styled-components
 
 ### その他
 * chrome extensionの開発
