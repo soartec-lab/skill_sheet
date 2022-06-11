@@ -2,10 +2,20 @@
 
 ## 自己紹介
 東京都在住フリーランスエンジニアです。
+<br/>
 これまでのキャリアは自分のやりたい、なりたい目標に対してその時必要な事を全力でやる事で成長する泥臭いキャリア成形をしてきました。
+<br/>
+<br/>
 [未経験からテスター、エンジニアとしてキャリアチェンジ](./carrier_start.md)し、
 [タクシー配車サービス](taxi/index.md)、[EdTechプラットフォーム開発](ed_tech_platform/index.md)、[Saas管理機能付きIdaas](saas_management_idp/index.md)と複数のサービス回数に参加していく中でエンジニア組織のマネジメント、テックリード、CREチームの立ち上げなど経験してきました。
-合わせて、[登壇](https://speakerdeck.com/soarteclab/railsbaziyonatupushi-dong-wu-yu)や[教材の執筆](https://www.techpit.jp/courses/79)を通して培ってきた経験や知見の共有も行っています。
+<br/>
+また、単発の依頼としてRailsアプリケーションのソースコード、アーキテクチャのレビューやプロダクト開発の技術観点でのレビューも経験しました。
+<br/>
+これまで使用した[技術スタックの一覧はこちら](all_technology_stack.md)に一覧を書いています。
+<br/>
+<br/>
+合わせて、[rails](https://contributors.rubyonrails.org/contributors/soartec-lab/commits)をはじめ[複数のOSS]((contribute_oss_list.md))にコントリビュートや
+[登壇](https://speakerdeck.com/soarteclab/railsbaziyonatupushi-dong-wu-yu)、[教材の執筆](https://www.techpit.jp/courses/79)を通して培ってきた経験や知見の共有も行っています。
 
 ### やりたい事/興味のある事
 
