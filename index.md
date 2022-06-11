@@ -2,7 +2,7 @@
 
 ## 自己紹介
 東京都在住フリーランスエンジニアです。
-これまでのキャリアは 以下の通り、自分のやりたい、なりたい目標に対してその時必要な事を全力でやる事で成長する泥臭いキャリア成形をしてきました。
+これまでのキャリアは自分のやりたい、なりたい目標に対してその時必要な事を全力でやる事で成長する泥臭いキャリア成形をしてきました。
 [未経験からテスター、エンジニアとしてキャリアチェンジ](./carrier_start.md)し、
 [タクシー配車サービス](taxi/index.md)、[EdTechプラットフォーム開発](ed_tech_platform/index.md)、[Saas管理機能付きIdaas](saas_management_idp/index.md)と複数のサービス回数に参加していく中でエンジニア組織のマネジメント、テックリード、CREチームの立ち上げなど経験してきました。
 合わせて、[登壇](https://speakerdeck.com/soarteclab/railsbaziyonatupushi-dong-wu-yu)や[教材の執筆](https://www.techpit.jp/courses/79)を通して培ってきた経験や知見の共有も行っています。
