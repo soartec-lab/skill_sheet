@@ -7,6 +7,7 @@
 * [github/docs](https://github.com/github/docs)
 * [cookpad/chanko](https://github.com/cookpad/chanko)
 * [cookpad/styleguide](https://github.com/cookpad/styleguide)
+* [Shopify/erb-lint](https://github.com/Shopify/erb-lint)
 * [tomiacannondale/era_ja](https://github.com/tomiacannondale/era_ja)
 * [digidentity/libsaml](https://github.com/digidentity/libsaml)
 * [rubyconfig/config](https://github.com/rubyconfig/config)

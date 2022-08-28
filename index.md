@@ -10,7 +10,7 @@
 これまで使用した[技術スタックの一覧はこちら](all_technology_stack.md)に一覧を書いています。
 <br/>
 <br/>
-[rails](https://contributors.rubyonrails.org/contributors/soartec-lab/commits)をはじめ[複数のOSS]((contribute_oss_list.md))にコントリビュートや
+[rails](https://contributors.rubyonrails.org/contributors/soartec-lab/commits)をはじめ[複数のOSS](contribute_oss_list.md)にコントリビュートや
 [登壇](https://speakerdeck.com/soarteclab/railsbaziyonatupushi-dong-wu-yu)、[教材の執筆](https://www.techpit.jp/courses/79)を通して培ってきた経験や知見の共有も行っています。
 
 ### やりたい事/興味のある事
