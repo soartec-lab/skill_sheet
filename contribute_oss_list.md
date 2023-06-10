@@ -16,7 +16,8 @@
 * [ActsAsParanoid/acts_as_paranoid](https://github.com/ActsAsParanoid/acts_as_paranoid)
 * [redis-store/redis-actionpack](https://github.com/redis-store/redis-actionpack)
 * [redis-store/redis-activesupport](https://github.com/redis-store/redis-activesupport)
-* [serverless/serverless](https://github.com/serverless/serverless/pulls/soartec-lab)
+* [serverless/serverless](https://github.com/serverless/serverless)
+* [heartcombo/devise](https://github.com/heartcombo/devise)
 
 ## その他
 
