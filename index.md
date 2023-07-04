@@ -129,6 +129,10 @@ railsへのコントリビューターという理由で以下のアンケート
 * [Railsアプリケーションのパフォーマンス改善をしながらN+1問題を解決するスキルを身に付けよう！](https://www.techpit.jp/courses/79)
   * [執筆のインタビュー](https://note.com/techpit/n/nd8c2aed9448f)
 
+### 新卒研修講師
+
+* [Webアプリ開発におけるRDBMS基礎](https://speakerdeck.com/soarteclab/20230419-webapurikai-fa-niokerurdbmsji-chu)
+
 ### SNS
 * [GitHub](https://github.com/soartec-lab)
 * [Twitter](https://twitter.com/SoartecL)
