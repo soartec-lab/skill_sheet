@@ -24,9 +24,11 @@
 * CoffeeScript
 
 ### フレームワーク/ライブラリ
-* React.js
+* React
   * MobX
-* AngularJS
+  * Next.js
+  * recoil
+* Angular/AngularJS
 * vue.js
 * Backbone.js
   * marionette.js
@@ -51,6 +53,7 @@
 * jest
 * react-testing-library
 * jasmine
+* karma
 
 ### その他
 * webpack
@@ -61,6 +64,7 @@
 
 ### SDK
 * Flutter
+* ionic
 
 ### ライブラリ
 * flutter_hooks
@@ -73,6 +77,8 @@
 ### Paas
 * AWS
 * GCP
+* Heroku
+* Firebase
 
 ### webサーバ、プロキシ
 * Nginx
@@ -80,6 +86,7 @@
 
 ### コンテナ
 * Docker
+* AWS ECS
 
 ### データベース
 * MySQL
@@ -114,6 +121,7 @@
 ## その他
 * chrome extensionの開発
 * OpenAPI
+  * openapi-generator
 * Apatch JMeter
 * SendGrid
 * Figma

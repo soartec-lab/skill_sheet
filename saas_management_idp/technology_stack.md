@@ -1,11 +1,11 @@
 ## サーバサイド
 ### 言語
-* Ruby 3.0
-* Python 3.7
-* Go 1.18
+* Ruby 3.2
+* Python 3.10
+* Go 1.21
 
 ### フレームワーク
-* Rails 7.0
+* Rails 7.1
 * Serverless Flamework
 
 ### テスティングフレームワーク/ツール
@@ -19,7 +19,7 @@
 * Typescript
 
 ### ライブラリ
-* react 17.0
+* react 18.0
 * jQuery 3.5.1
 * Sass
 * material-ui
@@ -35,10 +35,10 @@
 
 ## モバイル
 ### 言語
-* Dart 2.16.2
+* Dart 3.0.5
 
 ### SDK
-* Flutter 2.10.4
+* Flutter 2.23.1
 
 ### ライブラリ
 * flutter_hooks
@@ -51,14 +51,15 @@
 ### Paas
 * AWS
 * GCP
+* Firebase
 
 ### コンテナ
 * Docker
 * AWS ECS
 
 ### データベース
-* Amazon Aurora MySQL 5.7
-* Redis 6.0
+* Amazon Aurora MySQL 8.0
+* Redis
 
 ### CI/CD
 * Github Actions
@@ -71,7 +72,7 @@
 
 ### IaC
 * Terraform
-* Serverless Flamework(AWS CloudFormation)
+* Serverless Flamework
 
 ## その他
 * Github
