@@ -18,6 +18,7 @@
 * [redis-store/redis-actionpack](https://github.com/redis-store/redis-actionpack)
 * [redis-store/redis-activesupport](https://github.com/redis-store/redis-activesupport)
 * [rmosolgo/graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
+* [cedarcode/webauthn-ruby](https://github.com/cedarcode/webauthn-ruby)
 * [serverless/serverless](https://github.com/serverless/serverless)
 * [jszwec/csvutil](https://github.com/jszwec/csvutil)
 
