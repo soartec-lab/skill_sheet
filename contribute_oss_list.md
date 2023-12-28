@@ -19,7 +19,9 @@
 * [redis-store/redis-activesupport](https://github.com/redis-store/redis-activesupport)
 * [rmosolgo/graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
 * [cedarcode/webauthn-ruby](https://github.com/cedarcode/webauthn-ruby)
+* [cedarcode/webauthn-rails-demo-app](https://github.com/cedarcode/webauthn-rails-demo-app)
 * [serverless/serverless](https://github.com/serverless/serverless)
+* [anymaniax/orval](https://github.com/anymaniax/orval)
 * [jszwec/csvutil](https://github.com/jszwec/csvutil)
 
 ## その他
