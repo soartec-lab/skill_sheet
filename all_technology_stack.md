@@ -5,12 +5,15 @@
 * java
 * PHP
 * go
+* Node.js
 
 ### フレームワーク
 * Rails
 * grape
 * FuelPHP
 * Serverless Flamework
+* Next.js
+* Express.js
 
 ### テスティングフレームワーク/ツール
 * Rspec
@@ -28,6 +31,11 @@
   * MobX
   * Next.js
   * recoil
+  * swr
+  * TansakQuery(react-query)
+  * Express.js
+  * zod
+  * yup
 * Angular/AngularJS
 * vue.js
 * Backbone.js
@@ -48,19 +56,26 @@
 * foundation
 * Bootstrap
 * Bulma
+* TailwindCSS
 
 ### テスティングフレームワーク/ツール
 * jest
+* vitest
+* msw
 * react-testing-library
 * jasmine
 * karma
+* Storybook
 
-### その他
+### ビルドツール
 * webpack
+* Vite
 
 ## モバイル
 ### 言語
 * Dart
+* Swift
+* Kotlin
 
 ### SDK
 * Flutter
@@ -99,9 +114,10 @@
 * Github Actions
 * CircleCi
 * AWS CodeDeploy
-* dependency bot
+* Dependabot
 * cypress
 * Flyway
+* Chromatic
 
 ### 監視
 * Datadog
@@ -122,6 +138,9 @@
 * chrome extensionの開発
 * OpenAPI
   * openapi-generator
+  * oapi-codegen
+  * Orval
+* GraphQL
 * Apatch JMeter
 * SendGrid
 * Figma
