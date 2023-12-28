@@ -106,7 +106,7 @@ CTO経験や複数サービスでのテックリード、新チーム立ち上�
 * 「no brilliant jerks」と言えない組織
 
 ### OSS
-railsをはじめ、複数のRubyGemsにコントリビュートしています。
+`rails`などの`RubyGems`をはじめ、20以上のOSSリポジトリにcontributeしてきました。
 [コントリビュートしたリポジトリ一覧](contribute_oss_list.md)
 
 また、自身で作成したgemも公開しています。
