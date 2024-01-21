@@ -9,7 +9,8 @@
 <br/>
 また、単発の案件としてRailsアプリケーションのソースコード、アーキテクチャのレビューやプロダクト開発の技術観点でのレビューも経験しました。
 <br/>
-[rails](https://contributors.rubyonrails.org/contributors/soartec-lab/commits)をはじめ[複数のOSS](contribute_oss_list.md)にコントリビュートや
+[orval](https://orval.dev/)のmaintainerとしての開発や[rails](https://contributors.rubyonrails.org/contributors/soartec-lab/commits)など[複数のOSS](contribute_oss_list.md)へのコントリビュートを通したOSS活動を行なっています。
+<br/>
 [登壇](https://speakerdeck.com/soarteclab/railsbaziyonatupushi-dong-wu-yu)、[教材の執筆](https://www.techpit.jp/courses/79)を通して培ってきた経験や知見の共有も行っています。
 <br/>
 これまで使用した[技術スタックの一覧はこちら。](all_technology_stack.md)
@@ -106,7 +107,9 @@ CTO経験や複数サービスでのテックリード、新チーム立ち上�
 * 「no brilliant jerks」と言えない組織
 
 ### OSS
-`rails`などの`RubyGems`をはじめ、20以上のOSSリポジトリにcontributeしてきました。
+[orval](https://orval.dev/)のmaintainerとして主に[OpenAPI](https://www.openapis.org/)から[swr](https://swr.vercel.app/ja)や[msw](https://mswjs.io/)のソースコードの自動生成についての機能追加、バグ修正、パッケージの管理、Issueのトリアージなどに関わっています。
+</br>
+また、railsなどのRubyGemsを中心に20以上のOSSリポジトリにcontributeしてきました。
 [コントリビュートしたリポジトリ一覧](contribute_oss_list.md)
 
 また、自身で作成したgemも公開しています。

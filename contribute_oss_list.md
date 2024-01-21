@@ -1,5 +1,6 @@
 ## コントリビュートしたOSSリポジトリ一覧
 
+* [anymaniax/orval](https://github.com/anymaniax/orval)
 * [rails/rails](https://github.com/rails/rails)
   * [Rails contributors](https://contributors.rubyonrails.org/contributors/soartec-lab/commits)
 * [yasslab/railsguides.jp](https://github.com/yasslab/railsguides.jp)
@@ -21,7 +22,6 @@
 * [cedarcode/webauthn-ruby](https://github.com/cedarcode/webauthn-ruby)
 * [cedarcode/webauthn-rails-demo-app](https://github.com/cedarcode/webauthn-rails-demo-app)
 * [serverless/serverless](https://github.com/serverless/serverless)
-* [anymaniax/orval](https://github.com/anymaniax/orval)
 * [jszwec/csvutil](https://github.com/jszwec/csvutil)
 
 ## その他
