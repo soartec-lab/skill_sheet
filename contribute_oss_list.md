@@ -2,7 +2,7 @@
 
 * [anymaniax/orval](https://github.com/anymaniax/orval)
 * [rails/rails](https://github.com/rails/rails)
-  * [Rails contributors](https://contributors.rubyonrails.org/contributors/soartec-lab/commits)
+  * [Rails contributors](https://contributors.rubyonrails.org/contributors/shodai-suzuki/commits)
 * [yasslab/railsguides.jp](https://github.com/yasslab/railsguides.jp)
 * [heartcombo/devise](https://github.com/heartcombo/devise)
 * [elastic/elasticsearch-ruby](https://github.com/elastic/elasticsearch-ruby)
