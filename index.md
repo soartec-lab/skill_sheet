@@ -155,9 +155,11 @@ We truly value your knowledge and experiences as a practitioner; hence we kindly
 * [note](https://note.com/soartec_lab)
 
 ## 参画プロジェクト
+* 大手EC、ファッション販売、求人サービス
 * [タクシー配車サービス](taxi/index.md)
 * [EdTechプラットフォーム開発](ed_tech_platform/index.md)
 * [Saas管理機能付きIdaas](saas_management_idp/index.md)
 * [IoT農園サービス](iot_farm/index.md)
 * [楽器販売ECサイト・SNSサイト](musical_instrument/index.md)
 * [SmartHR情シス領域プロダクト](smarthr/index.md)
+* [クリエイターエコノミー業務促進サービス](mosh/index.md)
