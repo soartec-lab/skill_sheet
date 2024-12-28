@@ -160,3 +160,4 @@ We truly value your knowledge and experiences as a practitioner; hence we kindly
 * [Saas管理機能付きIdaas](saas_management_idp/index.md)
 * [IoT農園サービス](iot_farm/index.md)
 * [楽器販売ECサイト・SNSサイト](musical_instrument/index.md)
+* [SmartHR情シス領域プロダクト](smarthr/index.md)
