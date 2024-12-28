@@ -151,6 +151,7 @@ We truly value your knowledge and experiences as a practitioner; hence we kindly
 * [GitHub](https://github.com/soartec-lab)
 * [X](https://twitter.com/SoartecL)
 * [Qiita](https://qiita.com/SoarTec-lab)
+* [Zenn](https://zenn.dev/soartec_lab)
 * [SpeakerDeck](https://speakerdeck.com/soarteclab)
 * [note](https://note.com/soartec_lab)
 
