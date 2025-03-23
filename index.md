@@ -132,6 +132,9 @@ OSSコントリビューションを通して以下の様な調査に参加す�
 Our survey consists of 3 parts: (1) demographic questions, (2) general questions relating the expectation on code review automation approaches and (3) questions relating the perception on conversational AI for code review automation.
 We truly value your knowledge and experiences as a practitioner; hence we kindly invite you to participate in this survey study. Your participation and response will provide valuable information to the software engineering research community.
 
+* Tilburg University(ティルブルフ大学)のアンケート「AIがソフトウェア開発に与える影響について(訳)」
+
+> conducting research on the impact of AI on software development. You have been selected for this study based on your expertise, making your insights as a developer invaluable. I would greatly appreciate a few minutes of your time to complete a short survey.
 
 ### 登壇
 * [ClassiのRuby/Railsバージョンアップ始動物語](https://speakerdeck.com/soarteclab/railsbaziyonatupushi-dong-wu-yu)
