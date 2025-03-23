@@ -141,6 +141,7 @@ We truly value your knowledge and experiences as a practitioner; hence we kindly
 * [＜業務未経験者さん向け＞実務で必要な技術力を知ろう！](https://techpit.connpass.com/event/209751/)
 * [MOSHでのフロントエンドリアーキテクチャの選定技術の紹介](https://speakerdeck.com/soarteclab/20240711-moshdenohurontoendoriakitekutiyanoxuan-ding-ji-shu-noshao-jie)
 * [急成長期の品質とスピードを両立するフロントエンド技術基盤](https://speakerdeck.com/soarteclab/ji-cheng-chang-qi-nopin-zhi-tosuhitowoliang-li-suruhurontoentoji-shu-ji-pan)
+* [400超Lambda構成アプリケーションの漸進的リアーキテクチャ](https://speakerdeck.com/soarteclab/400chao-lambdagou-cheng-apurikesiyonnojian-jin-de-riakitekutiya)
 
 ### 教材執筆
 * [Railsアプリケーションのパフォーマンス改善をしながらN+1問題を解決するスキルを身に付けよう！](https://www.techpit.jp/courses/79)
