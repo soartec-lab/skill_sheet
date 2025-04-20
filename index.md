@@ -159,6 +159,13 @@ We truly value your knowledge and experiences as a practitioner; hence we kindly
 * [SpeakerDeck](https://speakerdeck.com/soarteclab)
 * [note](https://note.com/soartec_lab)
 
+### はてなブックマーク人気エントリー掲載
+
+- [現時点のAIエージェントを活用した開発方法と考え方とTIPS](https://b.hatena.ne.jp/hotentry/it/20250320)
+  - [元記事](https://zenn.dev/soartec_lab/articles/204c363a310098)
+- [400超のLambda構成アプリケーションにおける漸進的リアーキテクチャ](https://b.hatena.ne.jp/hotentry/it/20250418)
+  - [元記事](https://zenn.dev/moshjp/articles/7f25c754fa3687)
+
 ## 参画プロジェクト
 * 大手EC、ファッション販売、求人サービス
 * [タクシー配車サービス](taxi/index.md)
