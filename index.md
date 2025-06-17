@@ -107,13 +107,12 @@ CTO経験や複数サービスでのテックリード、新チーム立ち上�
 * 「no brilliant jerks」と言えない組織
 
 ### OSS
-[orval](https://orval.dev/)のmaintainerとして主に[OpenAPI](https://www.openapis.org/)から[swr](https://swr.vercel.app/ja)や[msw](https://mswjs.io/)のソースコードの自動生成についての機能追加、バグ修正、パッケージの管理、Issueのトリアージなどに関わっています。
-</br>
-また、railsなどのRubyGemsを中心に20以上のOSSリポジトリにcontributeしてきました。
-[コントリビュートしたリポジトリ一覧](contribute_oss_list.md)
-
-また、自身で作成したgemも公開しています。
-[RubyGems](https://rubygems.org/profiles/soartec-lab)
+- [orval](https://orval.dev/)のmaintainerとしてOSS活動を行っています。
+- railsなどのRubyGemsを中心に20以上のOSSリポジトリにcontributeしてきました。
+  - [コントリビュートしたリポジトリ一覧](contribute_oss_list.md)
+- 自身で作成した[RubyGems](https://rubygems.org/profiles/soartec-lab)や`npm`を公開しています。
+- OSS活動を通していくつかのスポンサーを受け取ることができました。
+  - https://github.com/sponsors/soartec-lab
 
 OSSコントリビューションを通して以下の様な調査に参加する事ができました。
 
@@ -129,8 +128,8 @@ OSSコントリビューションを通して以下の様な調査に参加す�
 * Monash University(モナシュ大学)のアンケート「AIによるソースコードレビューの自動化への期待と認識調査(訳)」
 
 > The goal of this work is to understand the expectation of software practitioners on code review automation approaches, and the perception of software practitioners on applying conversational AI for code review automation.
-Our survey consists of 3 parts: (1) demographic questions, (2) general questions relating the expectation on code review automation approaches and (3) questions relating the perception on conversational AI for code review automation.
-We truly value your knowledge and experiences as a practitioner; hence we kindly invite you to participate in this survey study. Your participation and response will provide valuable information to the software engineering research community.
+> Our survey consists of 3 parts: (1) demographic questions, (2) general questions relating the expectation on code review automation approaches and (3) questions relating the perception on conversational AI for code review automation.
+> We truly value your knowledge and experiences as a practitioner; hence we kindly invite you to participate in this survey study. Your participation and response will provide valuable information to the software engineering research community.
 
 * Tilburg University(ティルブルフ大学)のアンケート「AIがソフトウェア開発に与える影響について(訳)」
 
