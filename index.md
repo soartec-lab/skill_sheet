@@ -136,6 +136,10 @@ We truly value your knowledge and experiences as a practitioner; hence we kindly
 
 > conducting research on the impact of AI on software development. You have been selected for this study based on your expertise, making your insights as a developer invaluable. I would greatly appreciate a few minutes of your time to complete a short survey.
 
+* University of Saskatchewan(サスカチュワン大学)のアンケート「FaaSアプリケーションの運用最適化ツールについて(訳)」
+
+> I developed a tool called “ServLessSense” to identify smells in serverless applications. I am using publicly available serverless applications to evaluate the tool. If you have experience with building applications with serverless/Function-as-a-Service (FaaS) technologies, then your feedback is really important to my research.
+
 ### 登壇
 * [ClassiのRuby/Railsバージョンアップ始動物語](https://speakerdeck.com/soarteclab/railsbaziyonatupushi-dong-wu-yu)
 * [＜業務未経験者さん向け＞実務で必要な技術力を知ろう！](https://techpit.connpass.com/event/209751/)
