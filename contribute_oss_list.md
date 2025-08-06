@@ -28,6 +28,8 @@
 * [remix-run/remix](https://github.com/remix-run/remix)
 * [remix-run/react-router](https://github.com/remix-run/react-router)
 
+<img src="https://algora.io/og/user/soartec-lab" />
+
 ## その他
 
 [2019年のOSSへのコミット件数は63件でした](https://qiita.com/SoarTec-lab/items/f979336bd25d7b3a8cd2)

@@ -139,6 +139,10 @@ OSSコントリビューションを通して以下の様な調査に参加す�
 
 > I developed a tool called “ServLessSense” to identify smells in serverless applications. I am using publicly available serverless applications to evaluate the tool. If you have experience with building applications with serverless/Function-as-a-Service (FaaS) technologies, then your feedback is really important to my research.
 
+[algora](https://algora.io/)というOSS developerのplatformで「top 1% TypeScript engineers globally」評価を得ることができました。表示はされていないですが「top 1% Ruby engineers globally 」でもあるとサービス提供会社のCTOから案内を頂きました。
+
+<img src="https://algora.io/og/user/soartec-lab" />
+
 ### 登壇
 * [ClassiのRuby/Railsバージョンアップ始動物語](https://speakerdeck.com/soarteclab/railsbaziyonatupushi-dong-wu-yu)
 * [＜業務未経験者さん向け＞実務で必要な技術力を知ろう！](https://techpit.connpass.com/event/209751/)
