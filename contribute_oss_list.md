@@ -27,6 +27,7 @@
 * [colinhacks/zod](https://github.com/colinhacks/zod)
 * [remix-run/remix](https://github.com/remix-run/remix)
 * [remix-run/react-router](https://github.com/remix-run/react-router)
+* [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 
 <img src="https://algora.io/og/user/soartec-lab" />
 
