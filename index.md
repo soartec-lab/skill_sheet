@@ -150,6 +150,8 @@ OSSコントリビューションを通して以下の様な調査に参加す�
 * [急成長期の品質とスピードを両立するフロントエンド技術基盤](https://speakerdeck.com/soarteclab/ji-cheng-chang-qi-nopin-zhi-tosuhitowoliang-li-suruhurontoentoji-shu-ji-pan)
 * [400超Lambda構成アプリケーションの漸進的リアーキテクチャ](https://speakerdeck.com/soarteclab/400chao-lambdagou-cheng-apurikesiyonnojian-jin-de-riakitekutiya)
 * [リアーキテクチャとAI活用で実現する急成長プロダクトの開発生産性向上](https://speakerdeck.com/soarteclab/riakitekutiyatoaihuo-yong-deshi-xian-suruji-cheng-chang-purodakutonokai-fa-sheng-chan-xing-xiang-shang)
+* [OpenAPIでのBackend TypeScriptスキーマ駆動開発](https://speakerdeck.com/soarteclab/openapidenobackend-typescriptsukimaqu-dong-kai-fa)
+* [Full-Stack TSでのマルチプロダクト基盤開発](https://speakerdeck.com/soarteclab/tskaigi-hokuriku-2025)
 
 ### 教材執筆
 * [Railsアプリケーションのパフォーマンス改善をしながらN+1問題を解決するスキルを身に付けよう！](https://www.techpit.jp/courses/79)
